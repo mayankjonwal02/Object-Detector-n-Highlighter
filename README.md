@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Real-Time Object Highlighter
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -35,5 +35,5 @@ This project demonstrates real-time object detection and highlighting using YOLO
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
